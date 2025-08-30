@@ -100,6 +100,3 @@ project_root/
 
 ***
 
-**This project combines robust hardware interfacing, real-time control, and customizable autonomous logic for a learner-friendly and powerful robotic car platform. Protect your workspace, test carefully, and enjoy building!**
-
-
