@@ -2,7 +2,7 @@
 ![wall-e](assets/wall-e.jpg)
 
 ## Overview
-
+ 
 This project consists of a WiFi-enabled, sensor-rich robotic vehicle, powered by an ESP32 microcontroller and controlled via a Python host application. The system supports both manual and autonomous operation, providing real-time environment sensing and smart obstacle avoidance within mapped room boundaries.
 
 ***
