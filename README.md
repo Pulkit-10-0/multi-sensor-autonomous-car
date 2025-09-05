@@ -8,6 +8,7 @@ This project consists of a WiFi-enabled, sensor-rich robotic vehicle, powered by
 ***
 
 ## Demo
+Watch Wall-E in action :
 [![Wall-E Demo](assets/image.png)](https://youtu.be/gQyEAW1ap30?si=Ck5gOCbIng7AmUG1)
 
 ## Features
